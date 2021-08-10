@@ -23,7 +23,8 @@ public class CountSum {
                 count++;
                 array[i]=0;
                 array[j]=0;
-
+                a[i]=0;
+                a[j]=0;
             }
         }
         return  count;
